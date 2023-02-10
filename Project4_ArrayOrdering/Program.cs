@@ -34,3 +34,5 @@ ArrayOrdering(array1); // вызов второго метода
 
 PrintArray(array1);
 
+
+
